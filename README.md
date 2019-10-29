@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+##NOTE 
+
+- I have used Angular8 to solve teh problem.
+- Implemented all the functional requirement mentioned in the challenge.
+- Localization: support for multiple languages
+- Responsive Design
+- Used both the search API to fetch record.
+- Loading screen is the  default search as mentioned in the challenge(Newyork - Montreal)
+- I have added infinite scrolling to load the data.
+
+##Future Scope
+- UI improvement
+- Bug Fix
+
+
